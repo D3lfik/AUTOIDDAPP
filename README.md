@@ -25,6 +25,7 @@ This project is a full-stack supply chain management application that uses block
 ## Technologies Used
 
 - **Web3.js**: Ethereum JavaScript API for interacting with the blockchain.
+- **Javascript** For Methods and functions .
 - **MySQL**: Relational database for storing transactional data.
 - **PHP**: Server-side scripting language for handling backend logic.
 - **Node.js**: Server runtime environment for running JavaScript on the server.
@@ -122,8 +123,15 @@ Contributions are welcome! Please follow the [Contribution Guidelines](CONTRIBUT
 
 This project is licensed under the [MIT License](LICENSE).
 
+
+
 ## Research Papers
 
 - [Research Paper 1](https://ijariie.com/FormDetails.aspx?MenuScriptId=219507)
 - [Research Paper 2](https://www.jetir.org/papers/JETIR2303500.pdf)
 
+
+![projectfront1](https://github.com/D3lfik/DAPP/blob/main/images/Screenshot%202023-05-29%20185649.png)
+![projectfront2](https://github.com/D3lfik/DAPP/blob/main/images/Screenshot%202023-05-29%20190024.png)
+![projectfront3](https://github.com/D3lfik/DAPP/blob/main/images/Screenshot%202023-05-29%20190310.png)
+![projectfront4](https://github.com/D3lfik/DAPP/blob/main/images/Screenshot_20221123_083813.pn)
